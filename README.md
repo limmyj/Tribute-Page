@@ -2,7 +2,8 @@
 
 `CERTIFICATION PROJECT`
 
-This is one of the required projects to earn the certification.
+- This is one of the required projects to earn the certification.
+- For this project, you will build a tribute page for a subject of your choosing, fictional or real.
 
 ## Objective
 Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
